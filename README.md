@@ -36,5 +36,5 @@ This repository contains **notes, challenges, and assignments** completed while 
 ## How to Use
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/head-first-c-challenges.git
+   git clone https://github.com/fredymosq/head-first-c-challenges.git
    cd head-first-c-challenges
